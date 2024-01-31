@@ -19,6 +19,8 @@
     "@vitejs/plugin-react": "^4.2.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "database": "^0.0.2",
+    "firebase": "^10.7.2",
     "lucide-react": "^0.316.0",
     "npx": "^10.2.2",
     "react": "^18.2.0",
